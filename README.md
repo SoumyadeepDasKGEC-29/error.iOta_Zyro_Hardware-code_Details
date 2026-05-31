@@ -68,8 +68,8 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 | V9 | Gauge | Rain Intensity | 0–100% |
 
 <p>
-<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/830b215d-22b1-4329-8da5-bebcaff4a9d1" />
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/980cfce3-345e-4605-8c4f-15b69f28ba6b" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/830b215d-22b1-4329-8da5-bebcaff4a9d1" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/980cfce3-345e-4605-8c4f-15b69f28ba6b" />
 </p>
 
 ---

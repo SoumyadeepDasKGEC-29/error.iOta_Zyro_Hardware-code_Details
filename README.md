@@ -11,8 +11,8 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 ---
 ## Poblem statement
 Agriculture faces significant challenges due to<br>
--inefficient water usage<br>
--declining soil fertility<br>
+- inefficient water usage<br>
+- declining soil fertility<br>
 -dependence on unpredictable weather patterns<br>
 Farmers often rely on<br>
 -manual observations and<br>

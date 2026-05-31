@@ -22,6 +22,31 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 - 🔁 **State Sync on Reconnect** — Restores pump and mode state after WiFi dropout
 
 ---
+## Feasibility Highlights
+
+✅ Low-Cost Implementation – Affordable components suitable for small and medium farms.
+✅ Easy Deployment – Uses widely available sensors and ESP32 technology.
+✅ Smart Water Management – Reduces water wastage through automated irrigation.
+✅ AI-Driven Decisions – Converts sensor data into actionable farming insights.
+✅ Real-Time Monitoring – Access field conditions anytime through a dashboard.
+✅ Scalable Design – Easily expandable with additional sensors and features.
+✅ Energy Efficient – Can operate using solar power for sustainable farming.
+✅ Farmer-Friendly – Simple interface requiring minimal technical knowledge.
+✅ Multi-Crop Support – Adaptable to different crops and farming conditions.
+✅ Sustainable Agriculture – Promotes resource conservation and higher productivity.
+
+---
+## Sustainability factors
+
+Factor | Impact |
+Water saved | 30–50% less water usage vs timer-based systems |
+Energy | Pump runs only when needed + solar compatible | 
+Soil health | pH + moisture + temperature monitoring prevents degradation |
+Chemical reduction | Less fertilizer and pesticide from healthier growing conditions |
+Accessibility | Low cost hardware accessible to small farmers |
+Scalability | Grows from a garden to a full farm with the same codebase |
+
+---
 
 ## 🛠️ Hardware Used
 

@@ -218,6 +218,7 @@ zyro-smart-agriculture/
 - [ ] Water flow sensor for usage tracking
 - [ ] Multi-zone irrigation support
 - [ ] Crop Disease Detection by image processing
+- [ ] According to the rain intensity, the land will be covered with sheds
 
 ---
 

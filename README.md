@@ -11,14 +11,21 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 ---
 ## Poblem statement
 Agriculture faces significant challenges due to
-**- inefficient water usage**
-**- declining soil fertility**
-**- dependence on unpredictable weather patterns**
+- inefficient water usage
+- declining soil fertility
+- dependence on unpredictable weather patterns
 Farmers often rely on
-**- manual observations and**
-**- traditional irrigation methods,**
-which can lead to overwatering nutrient imbalance reduced crop yields unnecessary operational costs In many regions, rainwater is not effectively harvested or managed, resulting in water scarcity during critical crop growth stages.
-## ✨ Features
+- manual observations and
+- traditional irrigation methods,
+which can lead to
+- over-watering
+- nutrient imbalance
+- reduced crop yields
+- unnecessary operational costs
+In many regions, rainwater is not effectively harvested or managed, resulting in water scarcity during critical crop growth stages.
+
+---
+## ✨ Features (SOLUTION)
 
 - 🌊 **Auto Irrigation** — Pump turns ON/OFF automatically based on soil moisture and temperature
 - 🌧️ **Rain Detection** — Stops watering automatically when rain is detected (DO pin)
@@ -171,37 +178,6 @@ Install these from Arduino Library Manager:
 | `DHT sensor library` (Adafruit) | DHT11 sensor |
 | `OneWire` | OneWire protocol for DS18B20 |
 | `DallasTemperature` | DS18B20 temperature reading |
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository
-```bash
-git clone https://github.com/yourusername/zyro-smart-agriculture.git
-```
-
-2. Open `zyro.ino` in Arduino IDE
-
-3. Install all required libraries listed above
-
-4. Update your credentials in the code:
-```cpp
-#define BLYNK_TEMPLATE_ID   "your_template_id"
-#define BLYNK_TEMPLATE_NAME "Zyro"
-#define BLYNK_AUTH_TOKEN    "your_auth_token"
-
-const char* ssid     = "your_wifi_name";
-const char* password = "your_wifi_password";
-```
-
-5. Calibrate soil moisture and pH sensors as described above
-
-6. Select **ESP32 Dev Module** as board in Arduino IDE
-
-7. Upload and open Serial Monitor at **115200 baud** to verify readings
-
-8. Set up the Blynk dashboard with the virtual pins listed above
 
 ---
 

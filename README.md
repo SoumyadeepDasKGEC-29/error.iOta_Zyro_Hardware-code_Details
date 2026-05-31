@@ -1,3 +1,4 @@
+# error.iOta
 # 🌱 Zyro — Smart Agriculture Monitoring System
 
 An IoT-based smart irrigation and soil monitoring system built on **ESP32** with real-time data visualization and remote control via the **Blynk IoT dashboard**.
@@ -9,7 +10,7 @@ An IoT-based smart irrigation and soil monitoring system built on **ESP32** with
 Zyro is a smart agriculture project designed to automate and monitor plant irrigation using multiple environmental sensors. The system collects real-time data on soil moisture, temperature, humidity, rain, and soil pH — and uses that data to automatically control a water pump. The farmer can also monitor all sensor readings and manually override the pump from anywhere using the Blynk mobile app.
 
 ---
-## Poblem statement
+## 🚨🚨Poblem statement
 
 | challenges|
 |--------|
@@ -57,16 +58,16 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 - ✅ Sustainable Agriculture – Promotes resource conservation and higher productivity.
 
 ---
-## Sustainability factors
+## 🌏 Sustainability factors
 
 | **Factor** | **Impact** |
 |-----------|-----------------|
-| Water saved | 30–50% less water usage vs timer-based systems |
-| Energy | Pump runs only when needed + solar compatible | 
-| Soil health | pH + moisture + temperature monitoring prevents degradation |
-| Chemical reduction | Less fertilizer and pesticide from healthier growing conditions |
-| Accessibility | Low cost hardware accessible to small farmers |
-| Scalability | Grows from a garden to a full farm with the same codebase |
+| 🌊 Water saved | 30–50% less water usage vs timer-based systems |
+| ⚡ Energy | Pump runs only when needed + solar compatible | 
+| ⚗️ Soil health | pH + moisture + temperature monitoring prevents degradation |
+| 📉 Chemical reduction | Less fertilizer and pesticide from healthier growing conditions |
+| 👥 Accessibility | Low cost hardware accessible to small farmers |
+| 📈 Scalability | Grows from a garden to a full farm with the same codebase |
 
 ---
 
@@ -76,8 +77,8 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 |-----------|---------|
 | ESP32 | Main microcontroller + WiFi |
 | Capacitive Soil Moisture Sensor | Measures soil moisture % |
-| DS18B20 | Soil/water temperature |
-| DHT11 | Air temperature & humidity |
+| DS18B20 |  Temperature |
+| DHT11 | Air humidity |
 | Rain Sensor Module | Rain detection (DO) + Rain intensity (AO) |
 | pH Sensor (E-201-C) | Measures soil pH level |
 | Relay Module (1-channel) | Controls the water pump |
@@ -112,7 +113,7 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 | V6 | Button (Switch) | Pump Control | Manual ON/OFF |
 | V7 | Gauge | Soil pH | 0.0 – 14.0 |
 | V8 | Value Display | pH Status | Acidic / Optimal / Alkaline |
-| V9 | Gauge | Rain Intensity | 0–100% |
+| V8 | Gauge | Rain Intensity | 0–100% |
 
 <p>
 <img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/830b215d-22b1-4329-8da5-bebcaff4a9d1" />

@@ -212,7 +212,12 @@ zyro-smart-agriculture/
 **Zyro'26**
 Built with ❤️ using ESP32 + Blynk IoT
 
-Web  Dashboard
+---
+
+## 💻Web  Dashboard
+
+<img width="1599" height="893" alt="image" src="https://github.com/user-attachments/assets/a76f201c-3251-494f-afcb-c206a518bdb1" /> <img width="1598" height="904" alt="image" src="https://github.com/user-attachments/assets/32738420-acfc-4343-83fe-ba2a52a467aa" />
+
 
 ---
 

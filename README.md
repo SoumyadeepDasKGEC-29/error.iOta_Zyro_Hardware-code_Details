@@ -67,6 +67,8 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 | V8 | Value Display | pH Status | Acidic / Optimal / Alkaline |
 | V9 | Gauge | Rain Intensity | 0–100% |
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/830b215d-22b1-4329-8da5-bebcaff4a9d1" />
+
 ---
 
 ## ⚙️ Auto Irrigation Logic
@@ -163,8 +165,6 @@ const char* password = "your_wifi_password";
 7. Upload and open Serial Monitor at **115200 baud** to verify readings
 
 8. Set up the Blynk dashboard with the virtual pins listed above
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/830b215d-22b1-4329-8da5-bebcaff4a9d1" />
 
 ---
 

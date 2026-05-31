@@ -204,10 +204,10 @@ zyro-smart-agriculture/
 
 ## 👨‍💻 Author
 
-**Soumyadeep**
-**Archisman**
-**Subhankar**
-**Sujauy**
+**Soumyadeep** <br>
+**Archisman**   <br>
+**Subhankar**<br>
+**Sujauy**<br>
 **KGEC,1st year**
 Built with ❤️ using ESP32 + Blynk IoT
 

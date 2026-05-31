@@ -16,7 +16,7 @@ Agriculture faces significant challenges due to
 - dependence on unpredictable weather patterns
 Farmers often rely on
 - manual observations and
-- traditional irrigation methods,
+- traditional irrigation methods,<br>
 which can lead to
 - over-watering
 - nutrient imbalance

@@ -10,7 +10,7 @@ An IoT-based smart irrigation and soil monitoring system built on **ESP32** with
 Zyro is a smart agriculture project designed to automate and monitor plant irrigation using multiple environmental sensors. The system collects real-time data on soil moisture, temperature, humidity, rain, and soil pH — and uses that data to automatically control a water pump. The farmer can also monitor all sensor readings and manually override the pump from anywhere using the Blynk mobile app.
 
 ---
-## 🚨🚨Poblem statement
+## 🚨🚨Problem statement
 
 | challenges|
 |--------|

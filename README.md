@@ -209,7 +209,7 @@ zyro-smart-agriculture/
 **Subhankar**<br>
 **Sujay**<br>
 **KGEC,1st year** <br>
-**Zyro'26**
+**Zyro'26**  Website : https://www.zyro-kgec.in/<br>
 Built with ❤️ using ESP32 + Blynk IoT
 
 ---

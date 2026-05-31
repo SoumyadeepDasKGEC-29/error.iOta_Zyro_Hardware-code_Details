@@ -207,8 +207,9 @@ zyro-smart-agriculture/
 **Soumyadeep** <br>
 **Archisman**   <br>
 **Subhankar**<br>
-**Sujauy**<br>
-**KGEC,1st year**
+**Sujay**<br>
+**KGEC,1st year** <br>
+**Zyro'26**
 Built with ❤️ using ESP32 + Blynk IoT
 
 Web  Dashboard

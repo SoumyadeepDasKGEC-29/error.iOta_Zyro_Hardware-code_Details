@@ -39,6 +39,7 @@ Zyro is a smart agriculture project designed to automate and monitor plant irrig
 ## Sustainability factors
 
 | **Factor** | **Impact** |
+|-----------|-----------------|
 | Water saved | 30–50% less water usage vs timer-based systems |
 | Energy | Pump runs only when needed + solar compatible | 
 | Soil health | pH + moisture + temperature monitoring prevents degradation |
